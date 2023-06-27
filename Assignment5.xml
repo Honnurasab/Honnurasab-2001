@@ -1,0 +1,36 @@
+<?xml-stylesheet type="text/css" href="Assignment5.css" ?>
+<!DOCTYPE HTML>
+<html>
+<head>
+<h1> STUDENTS DESCRIPTION </h1>
+</head>
+<students>
+<student>
+<USN>USN : 2TG20CS021</USN>
+<name>NAME : Honnurasab</name>
+<college>COLLEGE : TCE</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<year>YEAR : 2023</year>
+<e-mail>E-Mail : honnur@gmail.com</e-mail>
+</student>
+<student>
+<USN>USN : 2TG20CS054</USN>
+<name>NAME : Vijayanand</name>
+<college>COLLEGE : TCE</college>
+<branch>BRANCH : Information Science and Engineering</branch>
+<year>YEAR : 2023</year>
+<e-mail>E-Mail : vishwa@gmail.com</e-mail>
+</student>
+<student>
+<USN>USN : 2TG20CS044</USN>
+<name>NAME : SHRISHAIL</name>
+
+<college>COLLEGE : TCE</college>
+<branch>BRANCH : Electronics and Communication Engineering
+</branch>
+<year>YEAR : 2023</year>
+<e-mail>E-Mail : SSS@gmail.com</e-mail>
+</student>
+</students>
+
+</html>
